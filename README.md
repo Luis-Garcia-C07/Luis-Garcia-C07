@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/7FrOU9tPbgAZtxV5mb/giphy-downsized-large.gif" width="300" />
+    <img src="https://media.giphy.com/media/7FrOU9tPbgAZtxV5mb/giphy-downsized-large.gif" width="200"/>
     <h1 align="center">Hi, what's up? 👋, I'm Luis Garcia</h1>
     <h3 align="center">A novice and passionate Front End web developer from Mexico.</h3>
 </div>
